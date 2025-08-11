@@ -1,0 +1,100 @@
+body
+    {
+       background-image: url(https://img.pikbest.com/ai/illus_our/20230423/1b1d6bc39f3aec8938f9b82dfb75a6a4.jpg!w700wp);
+       background-size: cover;
+       background-repeat: no-repeat;
+       background-position: center;
+    }
+    .container
+    {
+        height: 110vh;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        position: relative;
+    }
+    .inp
+    {
+        height: 50%;
+        width: 30%;
+        
+        font-size: 40px;
+        color: whitesmoke;
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
+        align-items: center;
+        margin-top: -50px;
+        box-shadow: 1px 1px 15px;
+        opacity: 1px;
+    }
+    h1
+    {
+        font-size: 80px;
+        color: white;
+        margin: auto;
+        margin-left: px;
+    }
+    #L,#P
+    {
+        color:rgb(193, 193, 229)
+    }
+    form
+    {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    input
+    {
+        height: 40px;
+        width: 300px;
+        border-radius: 25px 25px 25px ;
+        border-color: transparent;
+        color: black;
+        margin-top: 40px;
+        font-size: 20px;
+    }
+    
+  
+a{
+    font-size: 20px;
+    margin-left: 200px;
+    margin-top: -200px;
+    color: white;
+}
+
+#l
+{
+   
+   font-size: 40px;
+   margin-left: 120px;
+   background-color: rgba(181, 181, 226, 0.703);
+   border-radius: 25px 25px 25px ;
+   
+}
+#i{
+    font-size: 30px;
+    margin-top: px;
+    margin-top: -65px;
+}
+#d
+{
+    font-size: 30px;
+    margin-left: 70px;
+    color: white;
+    margin-left: 290px;
+  
+}
+#su{
+    height: 50px;
+    width: 130px;
+    background-color: rgba(180, 180, 218, 0.498);
+    border-radius:20px 20px 20px ;
+    border-color: transparent;
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left: -80px;
+    color: rgba(196, 196, 211, 0.991);
+}
